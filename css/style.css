@@ -1495,7 +1495,6 @@ footer .footer-inner .copyright-wrap .sns a:hover .bi {
 
 /* ############ class-detail.html############*/
 .class-detail-image {
-  margin-top: 122px; 
   display: none;
   border: 1px solid #000;
   padding: 0 !important;
@@ -1527,7 +1526,9 @@ footer .footer-inner .copyright-wrap .sns a:hover .bi {
 .class-detail-image .class-detail-image-inner .cover-image img {
   height: 500px;
 }
-
+.class-detail-full{
+  margin-top: 122px;
+}
 .class-detail-full .class-detail-full-inner .class-detail-full-contnet {
   display: -webkit-box;
   display: -ms-flexbox;
