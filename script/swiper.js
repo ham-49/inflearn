@@ -1,6 +1,5 @@
 if(matchMedia("screen and (max-width: 480px)").matches){
   console.log("mobile");
- var swiper = new Swiper(".mySwiper", {});
       var swiper = new Swiper(".mySwiper02", {
         slidesPerView:2, //한번에 보여줄 슬라이드 수
         spaceBetween:30, //간격
@@ -17,7 +16,6 @@ if(matchMedia("screen and (max-width: 480px)").matches){
       });
 }else if(matchMedia("screen and (min-width: 768px)").matches){
   console.log("desktop");
-  var swiper = new Swiper(".mySwiper", {});
       var swiper = new Swiper(".mySwiper02", {
         slidesPerView:4, //한번에 보여줄 슬라이드 수
         spaceBetween:30, //간격
