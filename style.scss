@@ -1046,6 +1046,7 @@ footer {
 /* ############ Take Course & Cart : take-course.html ############ */
 .take-course {
   background-color: $light-gray;
+  margin-top: 122px;
   .take-course-inner {
     display: flex;
     gap: 30px;
@@ -1172,6 +1173,7 @@ footer {
       }
       /* Cart Item Empty */
       .cart-item-empty {
+        margin-top: 122px;
         text-align: center;
         padding-top: 100px;
         padding-bottom: 50px;
@@ -1308,6 +1310,7 @@ footer {
 
 /* ############ category-main.html############*/
 .category-class {
+  margin-top: 122px;
   .category-class-inner {
     .category-class-main {
       height: 120px;
@@ -1457,6 +1460,7 @@ footer {
 
 /* ############ class-detail.html############*/
 .class-detail-image {
+  margin-top: 122px;
   display: none;
   border: 1px solid #000;
   padding: 0 !important;
@@ -1961,6 +1965,7 @@ footer {
 }
 /* ############ Member Account : member-register.html ############ */
 .signup {
+  margin-top: 122px;
   display: flex;
   justify-content: center;
   align-items: center;
