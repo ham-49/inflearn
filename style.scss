@@ -169,9 +169,6 @@ header {
   width: 100%;
   z-index: 100;
   border-bottom: 1px solid $silver-gray;
-  position: relative;
-
-  &.active {
     position: fixed;
     top: 0;
     left: 0;
