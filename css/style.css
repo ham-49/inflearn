@@ -205,7 +205,8 @@ header {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  width: 100%; height : 122px;
+  width: 100%;
+  height: 122px;
   z-index: 100;
   border-bottom: 1px solid #eee;
   position: fixed;
@@ -413,7 +414,7 @@ header .mega-navi .mega-navi-inner b {
   transition: 0.2s;
 }
 header .mega-navi .mega-navi-inner b.active {
-  color: #FFD912;
+  color: #0a7536;
   font-weight: 800;
 }
 header .mega-navi .mega-navi-inner .mega-navi-item-wrap {
@@ -429,7 +430,7 @@ header .mega-navi .mega-navi-inner .mega-navi-item-wrap a:hover {
 }
 
 /* ############ section : front-slider ############*/
-.front-slider{
+.front-slider {
   margin-top: 122px;
 }
 .front-slider .front-slider-items .front-slider-item:nth-child(1) {
@@ -618,7 +619,6 @@ header .mega-navi .mega-navi-inner .mega-navi-item-wrap a:hover {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  display: 15px;
 }
 .best-class .best-class-inner .best-class-content .best-class-wrap .best-class-items-outer .best-class-items .best-class-item {
   display: -webkit-box;
@@ -739,7 +739,7 @@ header .mega-navi .mega-navi-inner .mega-navi-item-wrap a:hover {
   display: -ms-flexbox;
   display: flex;
   padding: 50px 0;
-  background: rgba(255, 217, 18, 0.1);
+  background: rgba(10, 117, 54, 0.1);
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -1213,6 +1213,7 @@ footer .footer-inner .copyright-wrap .sns a:hover .bi {
   font-weight: 500;
 }
 .take-course .take-course-inner .cart-wrap .cart-item-empty {
+  margin-top: 122px;
   text-align: center;
   padding-top: 100px;
   padding-bottom: 50px;
@@ -1359,8 +1360,8 @@ footer .footer-inner .copyright-wrap .sns a:hover .bi {
 }
 
 /* ############ category-main.html############*/
-.category-class{
-  margin-top: 122px; 
+.category-class {
+  margin-top: 122px;
 }
 .category-class .category-class-inner .category-class-main {
   height: 120px;
@@ -1526,7 +1527,8 @@ footer .footer-inner .copyright-wrap .sns a:hover .bi {
 .class-detail-image .class-detail-image-inner .cover-image img {
   height: 500px;
 }
-.class-detail-full{
+
+.class-detail-full {
   margin-top: 122px;
 }
 .class-detail-full .class-detail-full-inner .class-detail-full-contnet {
@@ -2143,7 +2145,7 @@ footer .footer-inner .copyright-wrap .sns a:hover .bi {
 
 /* ############ Member Account : member-register.html ############ */
 .signup {
-  margin-top: 122px; 
+  margin-top: 122px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
