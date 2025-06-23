@@ -86,9 +86,6 @@ li {
   /* ############ class-detail.html############*/
 }
 @media (min-width: 768px) and (max-width: 1024px) and (min-width: 768px) and (max-width: 1024px) {
-  .front-slider {
-    padding-top: 50px;
-  }
   .front-slider .front-slider-items .front-slider-item .front-slider-item-wrap {
     width: 100%;
     height: auto;
