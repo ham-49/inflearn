@@ -1047,6 +1047,7 @@ footer .footer-inner .copyright-wrap .sns a:hover .bi {
 /* ############ Take Course & Cart : take-course.html ############ */
 .take-course {
   background-color: #F5F5F5;
+  margin-top: 122px;
 }
 .take-course .take-course-inner {
   display: -webkit-box;
@@ -1358,6 +1359,9 @@ footer .footer-inner .copyright-wrap .sns a:hover .bi {
 }
 
 /* ############ category-main.html############*/
+.category-class{
+  margin-top: 122px; 
+}
 .category-class .category-class-inner .category-class-main {
   height: 120px;
   width: 100%;
@@ -1491,6 +1495,7 @@ footer .footer-inner .copyright-wrap .sns a:hover .bi {
 
 /* ############ class-detail.html############*/
 .class-detail-image {
+  margin-top: 122px; 
   display: none;
   border: 1px solid #000;
   padding: 0 !important;
@@ -2137,6 +2142,7 @@ footer .footer-inner .copyright-wrap .sns a:hover .bi {
 
 /* ############ Member Account : member-register.html ############ */
 .signup {
+  margin-top: 122px; 
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
