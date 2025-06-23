@@ -215,8 +215,6 @@ header.active {
   top: 0;
   left: 0;
   right: 0;
-  -webkit-box-shadow: 0 0 5px red;
-          box-shadow: 0 0 5px red;
 }
 header .header-inner {
   width: 1160px;
