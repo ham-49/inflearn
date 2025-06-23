@@ -174,8 +174,6 @@ header {
     left: 0;
     right: 0;
     background: $white;
-  }
-
   .header-inner {
     width: 1160px;
 
@@ -374,7 +372,7 @@ header {
         transition: .2s;
 
         &.active {
-          color: $orange;
+          color: $forestgreen;
           font-weight: 800;
         }
       }
@@ -581,7 +579,6 @@ header {
 
           .best-class-items {
             display: flex;
-            display: 15px;
 
             .best-class-item {
               display: flex;
@@ -698,7 +695,7 @@ header {
 
       .early-bird-banner {
         display: flex; padding: 50px 0;
-        background: rgba($orange, $alpha: 0.1);
+        background: rgba($forestgreen, $alpha: 0.1);
         align-items: center;
         justify-content: space-around;
 
