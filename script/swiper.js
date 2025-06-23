@@ -1,7 +1,7 @@
 var swiper = new Swiper(".mySwiper", {});
       var swiper = new Swiper(".mySwiper02", {
         slidesPerView:4, //한번에 보여줄 슬라이드 수
-        spaceBetween:15, //간격
+        spaceBetween:30, //간격
         autoplay:{
           delay:3000, 
           disableOnInteraction	:true, 
@@ -14,8 +14,8 @@ var swiper = new Swiper(".mySwiper", {});
           480:{
             slidesPerView:2,
           },
-          1024:{
-            slidesPerView:4,
+          300:{
+            slidesPerView:2,
           },
         },
         loop:true,
