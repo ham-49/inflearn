@@ -1,3 +1,4 @@
+var swiper = new Swiper(".mySwiper", {});
 var swiper = new Swiper(".mySwiper02", {
   slidesPerView: 2, // 기본값: 모바일 기준
   spaceBetween: 20,
