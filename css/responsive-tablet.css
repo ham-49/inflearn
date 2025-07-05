@@ -145,6 +145,9 @@ li {
   .blog .blog-inner .blog-content .blog-items .blog-item .thumb {
     height: 160px;
   }
+  .blog .blog-inner .blog-content .blog-items .blog-item .desc .blog-outline h4 {
+    width: 280px;
+  }
   .slogan {
     padding: 25px !important;
   }
