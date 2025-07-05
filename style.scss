@@ -425,6 +425,11 @@ header {
           h2 {
             font-size: 34px;
             margin: 15px 0;
+            font-weight: bold;
+          }
+          h3 {
+            font-size: 25px;
+            margin: 30px 0;
           }
         }
         .pic {
@@ -566,7 +571,7 @@ header {
 
         .best-class-banner {
           img {
-            width: 370px;
+            width: 260px;
           }
         }
 
@@ -585,7 +590,7 @@ header {
             .best-class-item {
               display: flex;
               flex: 1;
-              gap: 15px;
+              gap: 30px;
               margin-right: 20px;
 
               .thumb {
