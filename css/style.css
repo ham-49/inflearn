@@ -465,6 +465,11 @@ header .mega-navi .mega-navi-inner .mega-navi-item-wrap a:hover {
 .front-slider .front-slider-items .front-slider-item .front-slider-item-wrap .desc h2 {
   font-size: 34px;
   margin: 15px 0;
+  font-weight: bold;
+}
+.front-slider .front-slider-items .front-slider-item .front-slider-item-wrap .desc h3 {
+  font-size: 25px;
+  margin: 30px 0;
 }
 .front-slider .front-slider-items .front-slider-item .front-slider-item-wrap .pic img {
   width: 350px;
@@ -609,7 +614,7 @@ header .mega-navi .mega-navi-inner .mega-navi-item-wrap a:hover {
   gap: 25px;
 }
 .best-class .best-class-inner .best-class-content .best-class-wrap .best-class-banner img {
-  width: 370px;
+  width: 260px;
 }
 .best-class .best-class-inner .best-class-content .best-class-wrap .best-class-banner-tablet {
   display: none;
@@ -638,7 +643,7 @@ header .mega-navi .mega-navi-inner .mega-navi-item-wrap a:hover {
   -webkit-box-flex: 1;
       -ms-flex: 1;
           flex: 1;
-  gap: 15px;
+  gap: 30px;
   margin-right: 20px;
 }
 .best-class .best-class-inner .best-class-content .best-class-wrap .best-class-items-outer .best-class-items .best-class-item .thumb {
