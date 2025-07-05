@@ -165,8 +165,11 @@ li {
   .front-slider .front-slider-items .front-slider-item .front-slider-item-wrap .desc h2 {
     font-size: 20px;
     margin: 15px 0;
-    width: 50%;
+    width: 60%;
     margin: auto;
+  }
+  .front-slider .front-slider-items .front-slider-item .front-slider-item-wrap .desc h3 {
+    font-size: 15px;
   }
   .front-slider .front-slider-items .front-slider-item .front-slider-item-wrap .pic {
     width: 300px;
